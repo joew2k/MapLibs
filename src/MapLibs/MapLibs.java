@@ -12,7 +12,7 @@ public class MapLibs {
 		String season = scanner.next();
 		
 		// Ask user to enter a whole number
-		System.out.println("Enter a whole number");
+		System.out.println("Enter whole number");
 		int wholeNumber = scanner.nextInt();
 		
 		// Ask user to enter an adjective
