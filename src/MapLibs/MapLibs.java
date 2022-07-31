@@ -15,7 +15,7 @@ public class MapLibs {
 		System.out.println("Enter whole number");
 		int wholeNumber = scanner.nextInt();
 		
-		// Ask user to enter an adjective
+		// Ask user to enter an adjectives
 		System.out.println("Enter an adjective");
 		String adjective = scanner.next();
 		scanner.close();
